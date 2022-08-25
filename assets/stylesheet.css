@@ -141,7 +141,7 @@ body {
 		opacity: 0;
 	}
 	50%{
-		opacity: 1;
+		opacity: 0;
 	}
 	100%{
 		background-image: url('bulb_yellow.png');
@@ -154,7 +154,7 @@ body {
 		opacity: 0;
 	}
 	50%{
-		opacity: 1;
+		opacity: 0;
 	}
 	100%{
 		background-image: url('bulb_yellow.png');
@@ -167,7 +167,7 @@ body {
 		opacity: 0;
 	}
 	50%{
-		opacity: 1;
+		opacity: 0;
 	}
 	100%{
 		background-image: url('bulb_yellow.png');
@@ -180,7 +180,7 @@ body {
 		opacity: 0;
 	}
 	50%{
-		opacity: 1;
+		opacity: 0;
 	}
 	100%{
 		background-image: url('bulb_yellow.png');
@@ -193,7 +193,7 @@ body {
 		opacity: 0;
 	}
 	50%{
-		opacity: 1;
+		opacity: 0;
 	}
 	100%{
 		background-image: url('bulb_yellow.png');
