@@ -33,10 +33,10 @@ var config = {
         turn_on: "Click Me",
         play: "Play",
         bannar_coming: "生日快乐",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        balloons_flying: "虚拟的气球你会怕吗",
+        cake_fadein: "这个蛋糕我吃了",
+        light_candle: "蜡烛还是要给你点的",
+        wish_message: "祝你生日快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
