@@ -31,7 +31,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "Click Me",
-        play: "Play",
+        play: "今天是19号了",
         bannar_coming: "生日快乐",
         balloons_flying: "虚拟的气球你会怕吗",
         cake_fadein: "这个蛋糕我吃了",
