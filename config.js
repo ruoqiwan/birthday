@@ -32,7 +32,7 @@ var config = {
     desc: {
         turn_on: "Click Me",
         play: "今天是19号了",
-        bannar_coming: "生日快乐",
+        bannar_coming: "生日快乐1",
         balloons_flying: "虚拟的气球你会怕吗",
         cake_fadein: "这个蛋糕你吃不到给我吃吧",
         light_candle: "蜡烛还是要给你点的",
