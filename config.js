@@ -34,7 +34,7 @@ var config = {
         turn_on: "Click Me",
         play: "你我都知道今天是什么日子",
         bannar_coming: "你的21我的23到你的26我的28",
-        balloons_flying: "虚拟的气球你会怕吗",
+        balloons_flying: "不会爆的气球你会怕吗",
         cake_fadein: "这个蛋糕你吃不到给我吃吧",
         light_candle: "蜡烛还是要给你点的",
         wish_message: "祝你生日快乐",
