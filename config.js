@@ -33,11 +33,11 @@ var config = {
     desc: {
         turn_on: "Click Me",
         play: "今天是一个特殊的日子",
-        bannar_coming: "算一算 你的21到26；我的23到28",
-        balloons_flying: "不会爆的气球你会怕吗",
-        cake_fadein: "这个蛋糕你吃不到给我吃吧",
+        bannar_coming: "我们从18年的春天 走到了22年的冬天",
+        balloons_flying: "不会爆的气球你还会怕吗",
+        cake_fadein: "这个蛋糕你吃不到了 我给你买个新的吧",
         light_candle: "蜡烛还是要给你点的",
-        wish_message: "祝你生日快乐",
+        wish_message: "乐乐 祝你生日快乐",
         story: "煽情的话怎么能少",
     }
 };
