@@ -32,8 +32,8 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "Click Me",
-        play: "你我都知道今天是什么日子",
-        bannar_coming: "你的21我的23到你的26我的28",
+        play: "今天是一个特殊的日子",
+        bannar_coming: "算一算 你的21到26；我的23到28",
         balloons_flying: "不会爆的气球你会怕吗",
         cake_fadein: "这个蛋糕你吃不到给我吃吧",
         light_candle: "蜡烛还是要给你点的",
