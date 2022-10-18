@@ -35,7 +35,7 @@ var config = {
         play: "今天是一个特殊的日子",
         bannar_coming: "我们从18年的初春 走到了22年的初冬",
         balloons_flying: "不会爆的气球你还会怕吗",
-        cake_fadein: "这个蛋糕你吃不到了 我给你买个新的吧",
+        cake_fadein: "这个蛋糕你吃不到了 要不我给你买个新的吧？",
         light_candle: "蜡烛还是要给你点的",
         wish_message: "乐乐 祝你生日快乐",
         story: "煽情的话怎么能少",
